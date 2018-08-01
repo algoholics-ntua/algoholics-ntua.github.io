@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.6.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2018-02-18T11:48:28+02:00</updated><id>http://localhost:4000/</id><title type="html">Marios Papachristou</title><subtitle>Hello! This is the personal homepage of Marios Papachristou built with Jekyll and the Lanyon Theme. For more visit &lt;a href=&quot;https://github.com/papachristoumarios&quot;&gt;my GitHub account&lt;/a&gt;</subtitle><author><name>Marios Papachristou</name><email>papachristoumarios@gmail.com</email></author><entry><title type="html">Changed my webpage</title><link href="http://localhost:4000/2017/11/06/changed-webpage/" rel="alternate" type="text/html" title="Changed my webpage" /><published>2017-11-06T00:05:20+02:00</published><updated>2017-11-06T00:05:20+02:00</updated><id>http://localhost:4000/2017/11/06/changed-webpage</id><content type="html" xml:base="http://localhost:4000/2017/11/06/changed-webpage/">&lt;p&gt;Hey folks!&lt;/p&gt;
+
+&lt;p&gt;I have just switched to jekyll for my personal homepage and blog!
+I will try to update it frequently!&lt;/p&gt;
+
+&lt;p&gt;This is a mathjax test:&lt;/p&gt;
+
+&lt;script type=&quot;math/tex; mode=display&quot;&gt;(a + b)^n = \sum_{k = 0}^n \binom n k a^k b^{n-k}&lt;/script&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-python&quot; data-lang=&quot;python&quot;&gt;&lt;span class=&quot;k&quot;&gt;print&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;'Hello everyone!'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;</content><author><name>Marios Papachristou</name><email>papachristoumarios@gmail.com</email></author><summary type="html">Hey folks!</summary></entry></feed>

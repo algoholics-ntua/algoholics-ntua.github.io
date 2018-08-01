@@ -1,0 +1,25 @@
+# Permalinks
+#
+# Use of `relative_permalinks` ensures post links from the index work properly.
+permalink:           pretty
+plugins: [jekyll-paginate]
+paginate: 5
+paginate_path: "page:num"
+
+
+# Setup
+title:               Algoholics | Algorithms Study Group
+tagline:             'Algoholics Algorithms Study Group'
+description:         'This is the description'
+url:                 http://algoholics.github.io
+baseurl:             ''
+paginate:            5
+
+# About/contact
+author:
+  name:              Marios Papachristou
+  url:               https://github.com/papachristoumarios
+  email:             papachristoumarios@gmail.com
+
+# Custom vars
+version:             1.0.0

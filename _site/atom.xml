@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+ <title>Marios Papachristou</title>
+ <link href="http://localhost:4000/atom.xml" rel="self"/>
+ <link href="http://localhost:4000/"/>
+ <updated>2018-02-18T11:48:28+02:00</updated>
+ <id>http://localhost:4000</id>
+ <author>
+   <name>Marios Papachristou</name>
+   <email>papachristoumarios@gmail.com</email>
+ </author>
+
+ 
+ <entry>
+   <title>Changed my webpage</title>
+   <link href="http://localhost:4000/2017/11/06/changed-webpage/"/>
+   <updated>2017-11-06T00:05:20+02:00</updated>
+   <id>http://localhost:4000/2017/11/06/changed-webpage</id>
+   <content type="html">&lt;p&gt;Hey folks!&lt;/p&gt;
+
+&lt;p&gt;I have just switched to jekyll for my personal homepage and blog!
+I will try to update it frequently!&lt;/p&gt;
+
+&lt;p&gt;This is a mathjax test:&lt;/p&gt;
+
+&lt;script type=&quot;math/tex; mode=display&quot;&gt;(a + b)^n = \sum_{k = 0}^n \binom n k a^k b^{n-k}&lt;/script&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-python&quot; data-lang=&quot;python&quot;&gt;&lt;span class=&quot;k&quot;&gt;print&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;'Hello everyone!'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+</content>
+ </entry>
+ 
+
+</feed>
