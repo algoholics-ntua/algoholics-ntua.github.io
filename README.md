@@ -1,6 +1,6 @@
 # Algoholics
 
-This repository hosts the code of our [website](algoholics-ntua.github.io) which is built with Jekyll and the Lanyon Theme.
+This repository hosts the code of our [website](https://algoholics-ntua.github.io) which is built with Jekyll and the Lanyon Theme.
 
 ### Contributing an article
 
