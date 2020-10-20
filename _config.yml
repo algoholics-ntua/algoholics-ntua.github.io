@@ -11,7 +11,7 @@ paginate_path: "page:num"
 title:               Algoholics | Peer to Peer Collaboration and Learning
 tagline:             ''
 description:         'This is the description'
-url:                 http://www.algoholics.co
+url:                 http://algoholics.github.io
 baseurl:             ''
 paginate:            5
 
