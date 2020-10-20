@@ -8,8 +8,8 @@ paginate_path: "page:num"
 
 
 # Setup
-title:               Algoholics | Algorithms Study Group
-tagline:             'Algoholics Algorithms Study Group'
+title:               Algoholics | Peer to Peer Collaboration and Learning
+tagline:             ''
 description:         'This is the description'
 url:                 http://algoholics.github.io
 baseurl:             ''
